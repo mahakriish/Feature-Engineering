@@ -5,13 +5,10 @@
 A(START) --> B(Check Temperature);
 B -->C(Is the room hot?)
 ```
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
-<!-- code_chunk_output -->
 
 - [This Tutorial about How to make adocumentation ellefitvely](#this-tutorial-about-how-to-make-adocumentation-ellefitvely)
 
-<!-- /code_chunk_output -->
 ```javascript
 class Person{
   constructor(name,age){
